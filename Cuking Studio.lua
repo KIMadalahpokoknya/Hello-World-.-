@@ -1,1 +1,1 @@
-Https://ckskimtan.vercel.app/
+print ("apa weh liat liat") 
